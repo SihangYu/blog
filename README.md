@@ -1,4 +1,4 @@
 # blog
 
 Change from branch: feature1
-Change from branch: master
+Change from branch: feature1.2

@@ -1,5 +1,3 @@
 # blog
 
-
-
-Changes from branch: master
+Change from branch: feature1
